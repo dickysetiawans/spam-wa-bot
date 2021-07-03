@@ -1,1 +1,1 @@
-# spam-wa-bot
+# spam wa bot
