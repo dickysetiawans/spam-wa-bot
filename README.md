@@ -26,7 +26,8 @@ API documentation:
 
 I use a models python selenium.
 firt you must download a chromedriver and install models.
-you can command type below
+
+You can a command below
 
 ```
 $ pip install selenium
