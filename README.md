@@ -24,13 +24,14 @@ API documentation:
 * [Python](https://seleniumhq.github.io/selenium/docs/api/py/)
 * [Ruby](https://seleniumhq.github.io/selenium/docs/api/rb/)
 
-I use a models python selenium
+I use a models python selenium.
 firt you must download a chromedriver and install models.
+you can command type below
 
 ```
 $ pip install selenium
 ```
-or you can download chromedriver [Heret](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+or you can download chromedriver [Here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 thank you 
 
