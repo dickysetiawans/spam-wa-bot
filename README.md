@@ -32,7 +32,7 @@ You can a command below
 ```
 $ pip install selenium
 ```
-or you can download chromedriver [Here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+and you can download chromedriver [Here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 thank you 
 
